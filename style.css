@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://i.pinimg.com/originals/d4/80/c4/d480c40dcb2d74ab9d31d96e8dc3cad1.png");
+  background-color: rgb(255, 222, 227);
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* button {
+  border: none;
+  background-color: aquamarine;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+} */
